@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Project Overview
-A School Board has requested that an analysis be done on the math and reading grades for students from Grades 9 - 12 in various schools within under the control of the board. The board would like to obtain information about the following:
+A School Board has requested that an analysis be done on the math and reading grades for students from Grades 9 - 12 in various schools under the control of the board. The analysis also needs to look at the effect of replacing the grades of the 9th Graders from Thomas High School due to allegations of Academic Dishonesty. The board would like to obtain information about the following:
 
 1. Remove the 9th Graders Scores from Thomas High School (due to Academic Dishonesty) and provide an updated summary of school performances in the district.
 2. Show the Top 5 and Bottom 5 Performing Schools by Overall Passing %.
@@ -15,16 +15,16 @@ A School Board has requested that an analysis be done on the math and reading gr
 
 # Results
 ## Purpose
-As a result of removing the reading and math grades of 9th Graders at Thomas High School, the summaries constructed earlier in the Module file are different to the summaries constructed in the Challenge file. The following results will outline the effect of removing those grades on the results.
+As a result of removing the reading and math grades of 9th Graders at Thomas High School, the summaries constructed earlier in the Module file are very slightly different to the summaries constructed in the Challenge file. The following results will outline the effect of removing those grades on the results.
 
 ## Changes in District Summary
 In the District summary, as shown below, the Average Math and Reading Scores stayed the same almost. Additionally, the % of students that passed Math and reading fell slightly, by 0.1 percentage points each, leading to a decrease in the overall passing % by 0.3 percentage points. Therefore, there was not a significant affect of removing the Thomas High School 9th Graders scores on the District Summary.
 
 Before:
-![District Summary (Before)]()
+![District Summary (Before)](https://github.com/msshahid21/school_district_analysis/blob/main/Resources/Images/DistrictSummary_Before.png)
 
 After:
-![District Summary (After)]()
+![District Summary (After)](https://github.com/msshahid21/school_district_analysis/blob/main/Resources/Images/DistrictSummary_After.png)
 
 ## Changes in Schools Summary
 In the School Summary, the only values that changed slightly were those from Thomas High School. The removal of the 9th Graders grades from Thomas High School had no effect on the scores of students from other schools. The changes in the Thomas High School numbers will be mentioned in the next section.
@@ -33,19 +33,19 @@ In the School Summary, the only values that changed slightly were those from Tho
 In the School Summaries for Thomas High School Before and After the removal of the Grade 9 Scores, we can see that there were not too many differences here either. Overall the passing % only dropped by 0.3 percentage points.
 
 Before:
-![Thomas Summary (Before)]()
+![Thomas Summary (Before)](https://github.com/msshahid21/school_district_analysis/blob/main/Resources/Images/ThomasSummary_Before.png)
 
 After:
-![Thomas Summary (After)]()
+![Thomas Summary (After)](https://github.com/msshahid21/school_district_analysis/blob/main/Resources/Images/ThomasSummary_After.png)
 
 ## Affect on Rankings
-As the effect of replacing the 9th grades scores of Thomas High School only had a very miniscule effect on its average scores, the overall standing of Thomas High School (by Overall Passing) has not been affected. As shown below, Thomas High School still maintains is 2nd Position in the ranking of the schools in the district.
+As the effect of replacing the 9th grades scores of Thomas High School only had a very miniscule effect on its average scores, the overall standing of Thomas High School (by Overall Passing) has not been affected. As shown below, Thomas High School still maintains its 2nd Position in the ranking of the schools in the district.
 
 Before:
-![Top 5 (Before)]()
+![Top 5 (Before)](https://github.com/msshahid21/school_district_analysis/blob/main/Resources/Images/Top5_Before.png)
 
 After:
-![Top 5 (After)]()
+![Top 5 (After)](https://github.com/msshahid21/school_district_analysis/blob/main/Resources/Images/Top5_After.png)
 
 ## Other Metrics
 ### Math and Reading Scores by Grade
